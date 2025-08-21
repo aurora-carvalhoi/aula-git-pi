@@ -1,2 +1,2 @@
 # aula-git-pi
-alteração feita no repaositório remoto
+alteração feita no repositórioremoto
